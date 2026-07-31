@@ -1,0 +1,6 @@
+{
+  "name": "OfflineTube",
+  "description": "Офлайн-видеохостинг с каналами, рекомендациями и фоновым воспроизведением.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
